@@ -1,4 +1,4 @@
-# Google_form_bot
+# Google Form Bot
 
 **Requirements:**
 
